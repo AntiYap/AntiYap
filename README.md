@@ -1,2 +1,1 @@
-# AntiYap
-Custom yapper client.
+# still in development.
